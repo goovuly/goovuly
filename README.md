@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a810cd0c-d39f-416a-9d65-a46d07b83f0f)<div align="center">
+<div align="center">
   <h1 style="background-color:#F5DDC5; padding:15px; border-radius:10px;">
     guhun Gwon
   </h1>
