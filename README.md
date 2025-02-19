@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="background-color:#000000; color:#FFFFFF; padding:15px; border-radius:10px;">
+  <h1 style="background-color:#FFFFFF; color:#000000; padding:15px; border-radius:10px;">
     Guhun Gwon
   </h1>
 </div>
