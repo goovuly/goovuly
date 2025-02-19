@@ -1,8 +1,9 @@
 <div align="center">
-  <h1 style="background-color:#F5DDC5; padding:15px; border-radius:10px;">
-    guhun Gwon
+  <h1 style="background-color:#000000; color:#FFFFFF; padding:15px; border-radius:10px;">
+    Guhun Gwon
   </h1>
 </div>
+
 
 ## ⚒️ Tech Stack ⚒️
 
