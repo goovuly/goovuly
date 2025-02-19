@@ -5,7 +5,6 @@
 </div>
 
 ## ⚒️ Tech Stack ⚒️
-<p align="center">Techs that I've used at least once</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
